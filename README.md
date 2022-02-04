@@ -15,12 +15,11 @@ Desenvolvedor de aplicativos com mais de 3 anos de experiência em construir app
 </div>
   
 ##
-  <h3 >Linguagens de programação</h3>
+  <h3 >Ferramentas que uso</h3>
 <p >
   <img src="https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" />
   <img src="https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white" />
   <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" />&nbsp;&nbsp;
 </p>
 <p >React Native, Javascript, Typescript, Java, Redux, Realm, MongoDB, SQLite, Firebase, Git.</p>
-
 </div>
