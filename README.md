@@ -3,7 +3,7 @@
 <h3 >Who I am</h3>
 
 <p>
-Mobile Software Engineer with +3 years of experience building scalable apps for Android and IOS using React Native. I also like learning about business and how to provide the best experience to the user with UX/UI methods.
+Mobile Software Engineer with +3 years of experience building scalable applications for Android and IOS using React Native, passionate about helping companies and people reach their potential through technology. I also like learning about business and how to provide the best experience to the user with UX/UI methods.
 </p>
   
   
