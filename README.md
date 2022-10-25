@@ -21,5 +21,5 @@ Mobile Software Engineer with +3 years of experience building scalable applicati
   <img src="https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white" />
   <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" />&nbsp;&nbsp;
 </p>
-<p >React Native, Javascript, Typescript, Java, Redux, Realm, MongoDB, SQLite, Firebase, Git.</p>
+<p >React Native, Javascript, Typescript, Java, Redux, Realm, MongoDB, SQLite, Firebase, C++.</p>
 </div>
