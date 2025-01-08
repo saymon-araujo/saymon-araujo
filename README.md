@@ -3,7 +3,11 @@
 <h3 >Who I am</h3>
 
 <p>
-Senior Software Engineer with +7 years of experience building scalable applications for Android and IOS using React Native, passionate about helping companies and people reach their potential through technology. I also like learning about business and how to provide the best experience to the user with UX/UI methods.
+Full-Stack Senior Software Engineer with 7+ years of experience delivering scalable, end-to-end solutions across diverse industries. From front-end interfaces (React Native, React) to back-end architectures (Node.js, databases, cloud services), I’ve built applications that handle global audiences and millions of users.
+
+My expertise spans creating MVPs that validate product-market fit, modernizing legacy systems for performance gains, and leading teams to deliver robust e-commerce and live-stream platforms. I’m passionate about leveraging UX/UI optimization and business insights to craft high-performance software that truly meets user needs.
+
+Let’s connect—always open to tackling new challenges and building impactful solutions together!
 </p>
   
   
