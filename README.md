@@ -19,8 +19,7 @@ Let’s connect—always open to tackling new challenges and building impactful 
 </div>
   
 ##
-  <h3 >Tools that i use</h3>
-<h3>Tools that I use</h3>
+<h3>Tools that I use:</h3>
 <p>
   <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React" />
   <img src="https://img.shields.io/badge/next.js-%23000000.svg?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js" />
