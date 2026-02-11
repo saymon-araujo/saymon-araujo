@@ -7,11 +7,11 @@ I build mobile products that scale — from MVP validation to global rollout.
 
 Over 8 years leading engineering teams through product launches, international expansions, and the technical challenges in between. I care about clean architecture, mentoring engineers, and shipping features that move business metrics.
 
-Career Highlights:
-• 4 Continents, 1 App — Led international expansion with multilingual support and regional compliance
-• 9M+ Daily Users — Shipped payment features for a top Brazilian bank's mobile platform
-• 40k+ Attendees — Built end-to-end event ticketing infrastructure competing with Eventbrite in LATAM
-• 5-Month Rebuild — Delivered a full React Native app from scratch, improving UX and performance
+Career Highlights:</br>
+• 4 Continents, 1 App — Led international expansion with multilingual support and regional compliance</br>
+• 9M+ Daily Users — Shipped payment features for a top Brazilian bank's mobile platform</br>
+• 40k+ Attendees — Built end-to-end event ticketing infrastructure competing with Eventbrite in LATAM</br>
+• 5-Month Rebuild — Delivered a full React Native app from scratch, improving UX and performance</br>
 
 Currently leading a team of 6 across healthcare, EdTech, and events — always looking for the next complex problem to solve.
 </p>
