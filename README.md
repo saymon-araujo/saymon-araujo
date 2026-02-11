@@ -3,11 +3,17 @@
 <h3 >Who I am</h3>
 
 <p>
-Full-Stack Senior Software Engineer with 7+ years of experience delivering scalable, end-to-end solutions across diverse industries. From front-end interfaces (React Native, React) to back-end architectures (Node.js, databases, cloud services), I’ve built applications that handle global audiences and millions of users.
+I build mobile products that scale — from MVP validation to global rollout.
 
-My expertise spans creating MVPs that validate product-market fit, modernizing legacy systems for performance gains, and leading teams to deliver robust e-commerce and live-stream platforms. I’m passionate about leveraging UX/UI optimization and business insights to craft high-performance software that truly meets user needs.
+Over 8 years leading engineering teams through product launches, international expansions, and the technical challenges in between. I care about clean architecture, mentoring engineers, and shipping features that move business metrics.
 
-Let’s connect—always open to tackling new challenges and building impactful solutions together!
+Career Highlights:
+• 4 Continents, 1 App — Led international expansion with multilingual support and regional compliance
+• 9M+ Daily Users — Shipped payment features for a top Brazilian bank's mobile platform
+• 40k+ Attendees — Built end-to-end event ticketing infrastructure competing with Eventbrite in LATAM
+• 5-Month Rebuild — Delivered a full React Native app from scratch, improving UX and performance
+
+Currently leading a team of 6 across healthcare, EdTech, and events — always looking for the next complex problem to solve.
 </p>
   
   
